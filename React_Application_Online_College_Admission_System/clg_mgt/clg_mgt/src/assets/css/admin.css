@@ -1,0 +1,27 @@
+.contact_box .profile {
+  color: #202c45 !important;
+}
+
+.contact_box .logout {
+  border: 1px solid #202c45;
+  background-color: #fff;
+  color: #202c45 !important;
+}
+.contact_box .logout:hover {
+  border: 1px solid #202c45;
+  background-color: #202c45;
+  color: #fff !important;
+}
+
+.sub_section_box {
+  border: 1px solid #202c45;
+  /* width: 250px; */
+  width: 40%;
+  height: 200px;
+  /* color: #000; */
+}
+
+.add_course {
+  background-color: #202c45;
+  color: #fff;
+}

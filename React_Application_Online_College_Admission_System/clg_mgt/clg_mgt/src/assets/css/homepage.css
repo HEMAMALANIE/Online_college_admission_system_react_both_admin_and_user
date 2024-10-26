@@ -1,0 +1,52 @@
+#header li {
+  list-style: none;
+}
+#header a {
+  color: #000;
+}
+
+
+#header {
+  position: sticky;
+  top: 0;
+  background-color: #fff;
+  z-index: 99;
+}
+.ul_nav_links li a {
+  font-weight: 600;
+}
+.contact_box .profile {
+  color: #202c45 !important;
+}
+.contact_box .logout {
+  border: 1px solid #202c45;
+  background-color: #fff;
+  color: #202c45 !important;
+}
+.contact_box .logout:hover {
+  border: 1px solid #202c45;
+  background-color: #202c45;
+  color: #fff !important;
+}
+.user_icon {
+  height: 60px;
+  width: 50px;
+}
+
+.company_image {
+  height: 80px;
+}
+
+.about_para {
+  text-align: justify;
+}
+
+.know_more_btn {
+  color: #fff;
+  background-color: #202c45;
+  border-color: #202c45;
+}
+
+.know_more_btn:hover {
+  background-color: #151c2c;
+}

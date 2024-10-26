@@ -1,0 +1,43 @@
+#header{
+    background-color: #b4e5ff;
+}
+.about_para{
+    text-indent: 100px;
+}
+.cursor_pointer{
+    cursor: pointer;
+}
+
+.mainFontColor{
+    color: rgb(26, 26, 129);
+}
+
+h1 , h2 , h3 , h4 {
+    color: rgb(26, 26, 129);
+}
+
+.logoIfet{
+    height: 60px;
+    border-radius: 30%;
+}
+
+img{
+    border-radius: 10px;
+}
+
+.company_image{
+    transition: 0.5s;
+}
+.company_image:hover{
+    transform: scale(1.2);
+}
+
+.know_more_btn{
+    transition: 0.5s;
+}
+.know_more_btn:hover{
+    border-radius: 20px;
+}
+/* .logo_section h3{
+
+} */
